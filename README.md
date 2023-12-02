@@ -7,7 +7,7 @@ Um app simples que calcula numeros inteiros divisiveis por 3 e 5
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/ViniPortoDev/teste_escribo.git
+   git clone https://github.com/ViniPortoDev/teste_escribo.git
 2. **Navegue até o diretório do projeto:**
 
    ```bash
