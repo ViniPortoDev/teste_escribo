@@ -7,13 +7,14 @@ Um app simples que calcula numeros inteiros divisiveis por 3 e 5
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto.git
+   git clone https://github.com/seu-usuario/ViniPortoDev/teste_escribo.git
 2. **Navegue até o diretório do projeto:**
 
    ```bash
-    cd seu-projeto
+    cd teste_escribo
 3. **Inicie o app**
-   aparecerá uma tela simples e intuitiva onde o usuário coloca um numero e ao clicka em calcular ele devolve o valor da somatoria entre os numeros inteiros divisiveis por 3 e 5
+
+aparecerá uma tela simples e intuitiva onde o usuário coloca um numero e ao clicka em calcular ele devolve o valor da somatoria entre os numeros inteiros divisiveis por 3 e 5
 
    
    
