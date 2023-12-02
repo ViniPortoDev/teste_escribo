@@ -1,16 +1,16 @@
-# teste_escribo
+# Desafio 1 Escribo
 
-A new Flutter project.
+Um app simples que calcula numeros inteiros divisiveis por 3 e 5
 
-## Getting Started
+## Como Rodar o Projeto
 
-This project is a starting point for a Flutter application.
+1. **Clone este repositório:**
 
-A few resources to get you started if this is your first Flutter project:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-projeto.git
+2. **Navegue até o diretório do projeto:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+   ```bash
+ cd seu-projeto
+  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
