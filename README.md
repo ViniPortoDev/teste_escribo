@@ -14,7 +14,7 @@ Um app simples que calcula numeros inteiros divisiveis por 3 e 5
     cd teste_escribo
 3. **Inicie o app**
 
-aparecerá uma tela simples e intuitiva onde o usuário coloca um numero e ao clicka em calcular ele devolve o valor da somatoria entre os numeros inteiros divisiveis por 3 e 5
+Aparecerá uma tela simples e intuitiva onde o usuário coloca um número e ao clicar em calcular ele devolve o valor da somatória entre os números inteiros divisíveis por 3 e 5.
 
    
    
