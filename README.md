@@ -8,9 +8,15 @@ Um app simples que calcula numeros inteiros divisiveis por 3 e 5
 
    ```bash
    git clone https://github.com/seu-usuario/seu-projeto.git
-2. **Navegue até o diretório do projeto:
+2. **Navegue até o diretório do projeto:**
 
    ```bash
- cd seu-projeto
+    cd seu-projeto
+3. **Inicie o app**
+   aparecerá uma tela simples e intuitiva onde o usuário coloca um numero e ao clicka em calcular ele devolve o valor da somatoria entre os numeros inteiros divisiveis por 3 e 5
+
+   
+   
+
   
 
